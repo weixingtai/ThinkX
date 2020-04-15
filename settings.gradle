@@ -1,0 +1,3 @@
+rootProject.name='ThinkX'
+include ':app'
+include ':xbase'
